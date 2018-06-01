@@ -13,6 +13,11 @@ Web Application Development
 ## Project Description:
 (This assignment allowed me to edit and index.html and summarize 5 topics from this lesson. It also showed me how to publish to cloud9 and github.)
 
+## View Project:
+ https://cab16h.github.io/lesson3_VersionControl/
+
+
+
 ## Lessons Learned in the Assignment:
 1. I learned how a local and remote repository function and how they a re both extremely useful.
 2. I learned how I can upload files/ projects to a local repository or use an existing one to create a new one.
